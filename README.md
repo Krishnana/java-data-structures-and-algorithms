@@ -4,7 +4,7 @@ Table of contents
 <!--ts-->
    * [Reverse an Array](#reverse-an-array)
       * [Challenge](#challenge)
-      * [Approach & Efficiency](#approach-&-efficiency)
+      * [Approach & Efficiency](#approach-and-efficiency)
       * [Solution](#solution)
 <!--te-->
 
@@ -14,7 +14,7 @@ Reverse an array given as input.
 ## Challenge
 Get an array of values, reverse the array and display the same to user.
 
-## Approach & Efficiency
+## Approach and Efficiency
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
 Approach is to swap the values between first and last indexes and keep moving inwards until the mid point i reached. This method needs iterations of half the length of array.
 
