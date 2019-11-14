@@ -1,3 +1,13 @@
+Table of contents
+=================
+
+<!--ts-->
+   * [Reverse an Array](#reverse-an-array)
+      * [Challenge](#challenge)
+      * [Approach & Efficiency](#approach-&-efficiency)
+      * [Solution](#solution)
+<!--te-->
+
 # Reverse an Array
 Reverse an array given as input. 
 
