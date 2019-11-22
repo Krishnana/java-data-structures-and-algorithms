@@ -2,7 +2,7 @@ Table of contents
 =================
 
 <!--ts-->
-   * [Reverse an Array](#reverse-an-array)
+   * [Reverse an Array](#reverse-an-array1)
       * [Challenge](#challenge)
       * [Approach & Efficiency](#approach-and-efficiency)
       * [Solution](#solution)
